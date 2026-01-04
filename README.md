@@ -31,7 +31,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="your-photo.jpg" alt="Uploaded document" />
+    <img src="your-photo.jpg" alt="IMG_20260103_084244_470.jpg "/>
   </div>
 </body>
 </html>
